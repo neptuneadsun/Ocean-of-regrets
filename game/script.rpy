@@ -1,7 +1,11 @@
 ﻿# Вы можете расположить сценарий своей игры в этом файле.
 
 # Определение персонажей игры.
-define e = Character('Эйлин', color="#c8ffc8")
+define g = Character('Гард', color="#dfedf3")
+define k = Character('Ксавьер', color="#dfedf3")
+define e = Character('Эрнст', color="#dfedf3")
+define kl = Character('Коул', color="#dfedf3")
+define u = Character('Уилбур', color="#dfedf3")
 
 # Вместо использования оператора image можете просто
 # складывать все ваши файлы изображений в папку images.
